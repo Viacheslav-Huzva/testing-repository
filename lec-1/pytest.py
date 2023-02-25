@@ -7,6 +7,6 @@ print(f"Hello {name}")
 number = input("guess a number from one to nine ")
 import random
 number = random.randrange(10)
-print(number )
+print(number)
 number = random.randrange(9)
-print(number )
+print(number)
